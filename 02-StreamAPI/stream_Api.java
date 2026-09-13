@@ -70,7 +70,7 @@ public class stream_Api {
         // filter()
         // Keeps elements that satisfy a condition (boolean predicate) and discards the rest.
         // Time Complexity:  O(N) - visits each element once.
-        // Space Complexity: O(1) - evaluates elements lazily in-flight.
+        // Space Complexity: O(1) - evaluates elements lazily in-flight .
         // =========================================================================
         List<Integer> numbers = List.of(10, 15, 20, 25, 30);
 
