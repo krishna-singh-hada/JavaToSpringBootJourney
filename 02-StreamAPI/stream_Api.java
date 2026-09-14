@@ -4,7 +4,7 @@ import java.util.stream.*;
 /**
  * JAVA STREAMS CHEAT SHEET & COMPLETE HANDBOOK
  * -------------------------------------------------------------------------
- * WHAT IS A STREAM?
+ * WHAT IS A STREAM ?
  * - A Stream is a sequence of elements supporting sequential and parallel 
  *   aggregate operations.
  * - It is NOT a data structure. It does not store elements permanently.
